@@ -22,6 +22,6 @@ Projeto em constante atualização e busca de melhorias no código e desempenho.
 
 Para utilizar esse projeto, é necessário ter o Laravel instalado na máquina, configurar o ambiente e instalar as dependências do projeto. A API é responsável por fornecer as rotas necessárias para que o aplicativo react native se comunique com o laravel, leia e manipule informações do banco de dados, como cadastro de clientes e produtos, controle de estoque e vendas, entre outras funcionalidades.
 
-Em breve será disponibilizado um vídeo tutorial detalhado apresentando todas as funcionalidades da API, mostrando como utilizar a API e como configurá-la em conjunto com o aplicativo de Loja Virtual em React Native. Fique atento às atualizações do repositório no Github para não perder nenhuma novidade!
+Em breve será disponibilizado um vídeo tutorial detalhado apresentando todas as funcionalidades da API, mostrando como utiliza-la e como configurá-la em conjunto com o aplicativo React Native. Fique atento às atualizações do repositório no Github para não perder nenhuma novidade!
 
 Link do repositório do front-end em RN: https://github.com/codedbyissa/smartmobile
