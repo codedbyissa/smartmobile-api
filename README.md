@@ -1,6 +1,6 @@
 # SmartMobile - Gestão Smart (API)
 
-Essa API foi desenvolvida em Laravel e tem como objetivo fornecer recursos necessários para o funcionamento de um aplicativo de gerenciamento de lojas/comércios ou qualquer negócio no formato vendas desenvolvido em React Native. A API conta com as seguintes funcionalidades:
+Essa API foi desenvolvida em Laravel e tem como objetivo fornecer os recursos necessários para o funcionamento de um aplicativo de gerenciamento de lojas/comércios ou qualquer negócio no formato vendas desenvolvido em React Native. A API conta com as seguintes funcionalidades:
 
 - CRUD de Clientes: Possibilidade de cadastrar, visualizar, editar e excluir informações dos clientes cadastrados no sistema.
 
